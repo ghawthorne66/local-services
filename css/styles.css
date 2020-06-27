@@ -2514,8 +2514,8 @@ li.invalid.input-mark .validation {
     width: 100%;
 }
 .masthead .top-logo {
-    position: fixed;
-    top: 0;
+    position: relative;
+    top: 1em;
     left: 0;
     padding: 1em;
     z-index: 3;
